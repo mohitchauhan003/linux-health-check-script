@@ -89,19 +89,19 @@ Full write-up: [`troubleshooting-log.md`](troubleshooting-log.md)
 ## Screenshots
 
 **1. Manual run of the script**
-![Health check run](screenshots/01-health-check-run.png)
+![Health check run](screenshots/01-health-check-run.png.png)
 
 **2. Cron job scheduled**
-![Cron setup](screenshots/02-cron-setup.png)
+![Cron setup](screenshots/02-cron-setup.png.png)
 
 **3. Log growing automatically (proves cron is running the script on its own)**
-![Cron log auto-running](screenshots/03-cron-log-auto-running.png)
+![Cron log auto-running](screenshots/03-cron-log-auto-running.png.png)
 
 **4. Nginx stopped, detected, and recovered**
-![Nginx failure and recovery](screenshots/04-nginx-failure-and-recovery.png)
+![Nginx failure and recovery](screenshots/04-nginx-failure-and-recovery.png.png)
 
 **5. Disk usage warning, then resolved**
-![Disk warning and fixed](screenshots/05-disk-warning-and-fixed.png)
+![Disk warning and fixed](screenshots/05-disk-warning-and-fixed.png.png)
 
 ## What I learned
 
